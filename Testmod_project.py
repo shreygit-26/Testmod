@@ -4,7 +4,6 @@
 # In[ ]:
 # In[ ]:
 
-pip install python-dateutil
 # importing packages
 import pandas as pd
 import numpy as np
